@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.ludus_fire.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\Alexx\\Desktop\\LUDUS_Fire\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "LUDUS_Fire [Testing]"
+        }
+      }
+    }
+  ]
+}
